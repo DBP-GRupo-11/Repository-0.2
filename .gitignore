@@ -1,0 +1,32 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos de configuración privados
+.env
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos de logs y dumps
+*.log
+*.out
+
+# Archivos temporales de editores
+*.swp
+*.swo
+*~
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de JetBrains (PyCharm)
+.idea/
+
+# Archivos de tests
+.pytest_cache/
+coverage.xml
+htmlcov/
