@@ -19,3 +19,5 @@ if __name__ == "__main__":
 
 def restar(a, b):
     return a - b
+def multiplicar(a, b):
+    return a * b
