@@ -1,6 +1,9 @@
 def division(a,b):
     if b != 0:
         return a/b
+    return None
+
+
 def sumar(a, b):
     return a + b
 
